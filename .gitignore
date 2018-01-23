@@ -1,0 +1,10 @@
+g# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+.deploy_git
+public
+node_modules
+
