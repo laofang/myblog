@@ -54,13 +54,13 @@ footer:
   copyright:
   # -------------------------------------------------------------
   # Hexo link (Powered by Hexo).
-  powered: true
+  powered: false
 
   theme:
     # Theme & scheme info link (Theme - NexT.scheme).
-    enable: true
+    enable: false
     # Version info of NexT after scheme info (vX.X.X).
-    version: true
+    version: false
   # -------------------------------------------------------------
   # Any custom text can be defined here.
   #custom_text: Hosted by <a target="_blank" href="https://pages.github.com">GitHub Pages</a>
@@ -593,7 +593,7 @@ calendar:
 
 # Algolia Search
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 10
   labels:
@@ -701,7 +701,7 @@ canvas_nest: false
 three_waves: false
 
 # canvas_lines
-canvas_lines: false
+canvas_lines: true
 
 # canvas_sphere
 canvas_sphere: false
@@ -781,7 +781,7 @@ vendors:
 
   # three_waves
   # https://github.com/jjandxa/three_waves
-  three_waves:
+  three_waves: 
 
   # three_waves
   # https://github.com/jjandxa/canvas_lines
